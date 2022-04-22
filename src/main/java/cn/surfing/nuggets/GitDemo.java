@@ -11,6 +11,10 @@ public class GitDemo {
         System.out.println(" i am a hacker");
         System.out.println(" here is branch hot-fix ");
         System.out.println(" add a row code ");
+
         System.out.println(" code with master ");
+
+        System.out.println(" code in hot-fix ");
+
     }
 }
