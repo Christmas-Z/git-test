@@ -18,5 +18,6 @@ public class HotFix {
         for (Integer integer : list) {
             System.out.println("integer = " + integer);
         }
+        System.out.println("master");
     }
 }
