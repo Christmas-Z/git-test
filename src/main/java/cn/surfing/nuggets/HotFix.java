@@ -12,8 +12,11 @@ public class HotFix {
 
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(3, 5, 6, 2, 8, 0, 9, 2, 1);
-        list.forEach(l -> {
+        /*list.forEach(l -> {
             System.out.println("l = " + l);
-        });
+        });*/
+        for (Integer integer : list) {
+            System.out.println("integer = " + integer);
+        }
     }
 }
